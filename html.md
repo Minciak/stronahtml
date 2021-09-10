@@ -27,7 +27,12 @@ Nikola
 <p align=„right”><font color="pink" size="11" face="Times New Roman">:) szczęście</font></p><br>
 <p align=„right”><font color="blue" size="10" face="Verdana">:D wielkie szczęscie</font></p><br>
 
-
+<p align="left"> <u> Adres - 80-188</u><b> Gdansk</b> <i>Jana z Kolana</i> <strike>101/34</strike>  </p> <br>
+<p align="middle"> <font color="pink" size="11" face="Arial">Moj ulubiony aktor: nie wiem :) </font> </p> <br>
+<p align="middle"> <font color="orange" size="7" face="Arial">Ulubiony zespol muzyczny:  <font color="green" size="9" face="Arial">xxx </p> <br>
+<p align="middle"> <font color="purple" size="4" face="Arial"> Data Urodzenia: 30 wrzesnia 2006 </font> </p> <br>
+<p align="left"> <font color="green" size="6" face="Arial"> H2SO4 </font> </p> <br>
+<p align="left"> <font color="pink" size="8" face="Arial"> x*x=x2 </font> </p> <br>
 
 
 </body>
